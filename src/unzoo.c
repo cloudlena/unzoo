@@ -243,7 +243,11 @@
 *H  Initial revision
 *H
 */
+#include        <stdlib.h>
 #include        <stdio.h>
+#include        <string.h>
+#include        <utime.h>
+#include        <sys/stat.h>
 
 
 /****************************************************************************
